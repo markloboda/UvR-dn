@@ -1,1 +1,1 @@
-print("hello world")
+print("hello world")  #izpiše "hello world"
